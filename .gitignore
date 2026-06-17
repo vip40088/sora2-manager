@@ -27,4 +27,5 @@ dist-ssr
 release/
 
 # Sensitive environment variables
-.env
+.env.env.*
+!.env.example
